@@ -95,3 +95,6 @@ footer {
     margin: 100px;
     flex-direction: column;
 }
+.greeting{
+    text-align: center;
+}
